@@ -1,3 +1,7 @@
 # Machine-learning
-A course in Google Advanced Data Analytics
+In this course, I learned:
+*  Modeling
+*  Decision tree
+*  Supervised learning
+*  Unsupervised learning
 ![logo](ml.jpg)
